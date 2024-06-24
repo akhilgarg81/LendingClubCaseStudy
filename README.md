@@ -32,10 +32,9 @@ Univariate Analysis
 		Lowest customer in Grade G 118 (1%)
 
 3. Employment Length
-
 		Employees who have employment length 10 and more are largest customer 3959 (24%)
 		second highest are customers who have 1 years experience
-4.Home Ownership
+4. Home Ownership
 		Rent and Mortgage type customer are the largest customer base. Customers who have own house are only 7%.
 5. Verification Status
 		42% non verified customers are the highest loan takers. High percentage of non verified customer shows company is not having strict policy or measures to verify customer 		details 		like address, income sources, credit history. This increases risk of loan defaulters
@@ -49,37 +48,36 @@ Univariate Analysis
 
 Bivariate
 
-Loan status and Employment length
+1. Loan status and Employment length
 		After plotting box plot using Loan status and employment length we found no correlation between employment length and loan status.
-Loan status and Annual income
-		After plotting box plot we found interquartile range of charged off customers are below compare to fully paid customer. We can infer customers who have low annual income 		have chances of defaulters
-Loan status and interest rate
-		We plotted box plot using Loan status and interest rate and we found 25th to 75the percentile of charged off customers are on high interest rate. Customers who have high 		interest rate have high changes of defaulters
-Loan status and dti
-		We plotted box plot using Loan status and dti(debt to income ratio) and we found 25th to 75the percentile of charged off customers are on high dti. Customers who have high 		dti ratio have high changes of defaulters
-Loan status and installment
-		After plotting box plot using Loan status and installment we found 75th percentile of charged off customer is high which means high installment amount customer have  			chances of defaulters
-Loan status and loan amount
+2. Loan status and Annual income
+		After plotting box plot we found interquartile range of charged off customers are below compare to fully paid customer. We can infer customers who have low annual income 		have 			chances of defaulters
+3. Loan status and interest rate
+		We plotted box plot using Loan status and interest rate and we found 25th to 75the percentile of charged off customers are on high interest rate. Customers who have high 		interest 		rate have high changes of defaulters
+4. Loan status and dti
+		We plotted box plot using Loan status and dti(debt to income ratio) and we found 25th to 75the percentile of charged off customers are on high dti. Customers who have high 		dti ratio 		have high changes of defaulters
+5. Loan status and installment
+		After plotting box plot using Loan status and installment we found 75th percentile of charged off customer is high which means high installment amount customer have  			chances of 		defaulters
+6. Loan status and loan amount
 		After plotting box plot using Loan status and Loan Amount we found 75th percentile of charged off customer is high which means high loan amount customer have  chances of 		defaulters
-Loan status and IncInstallmentRatio(Income & Installment Ratio)
-		After plotting box plot using Loan status and Income installment ratio we found 25th and 75th percentile of charged off customer is high which means high loan amount 			customer have  chances of defaulters
-
-Loans status and inq_last_6mths
+7. Loan status and IncInstallmentRatio(Income & Installment Ratio)
+		After plotting box plot using Loan status and Income installment ratio we found 25th and 75th percentile of charged off customer is high which means high loan amount 			customer 		have  chances of defaulters
+8. Loans status and inq_last_6mths
 		After plotting box plot using Loan status and last 6 months inquiry attribute we can analyse 
 		if customer enquiries are more than one in last 6 months then there is high chances of charged off
-Loan status and revol_util
+9. Loan status and revol_util
 		We plotted box plot using Loan status and revol_util and identified customer who are having more utilization rate compared to borrowed amount have high chances of charged 		off
-Loan status and total_acc 
+10. Loan status and total_acc 
 		Box plot of Loan status and total account shows plot is more or less same for both changed off and fully paid customers.
 		From the graph we can conclude there is no direct impact of total account on charged off customers
-Loan status and Grade
+11. Loan status and Grade
 		Using Box plot of Loan status and grade we identified B, C & D grades are  having high chances of defaulters
-Loan status and state address
+12. Loan status and state address
 		Box plot for both charged off and fully paid customers is same for loan status vs state address which indicates no direct relationship.
-Loan status and home ownership
+13. Loan status and home ownership
  		We have created derive column based on home ownership ("RENT":1,"OWN":2,"MORTGAGE":3,"OTHER":4)
 		From the graph we can conclude there is no significant direct impact of loan status and home ownership
-Loan status and term
+14. Loan status and term
 		People who are taking loan for 60 months of tenure are likely to default.
 
 

@@ -112,11 +112,11 @@ Loan Data Set CSV File
 13. People who are taking loan for 60 months of tenure are likely to default. 
 
 ## Libraries version
-Pandas: 2.2.2
-NumPy:1.26.4
-Seaborn:0.12.2
-Matplotlib:3.8.0
-Anaconda Navigator: 2.6.0
+- Pandas: 2.2.2
+- NumPy:1.26.4
+- Seaborn:0.12.2
+- Matplotlib:3.8.0
+- Anaconda Navigator: 2.6.0
 
 ## Acknowledgements
 Give credit here.

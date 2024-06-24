@@ -13,25 +13,25 @@ Analyse Lending company data and identify charged off customer behaviour
 
 ## [Technologies Used](#technologies-used)
 - Python
--Libraries:
---Numpy	
---Panads
---Matplotlib
---Seaborn
+- Libraries:
+- Numpy	
+- Panads
+- Matplotlib
+- Seaborn
 
 ## Conclusions
 Univariate Analysis
-1.Loan Status
+1. Loan Status
 		Total count and percentage of loan customer by their loan status (Fully Paid/Charged Off/Current). 
 		Fully Paid: 13982(84%) Most of the customers are in fully paid category
 		Charged : 2152(13%)
 		Current : 540 (3%)
-2.Grade
+2. Grade
 		Total count and percentage of loan customer by Grade (A/B/C/D/E/F/G)
 		Highest customer in Grade B 5144 (31%)
 		Lowest customer in Grade G 118 (1%)
 
-3.Employment Length
+3. Employment Length
 
 		Employees who have employment length 10 and more are largest customer 3959 (24%)
 		second highest are customers who have 1 years experience

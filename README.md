@@ -2,14 +2,14 @@
 Problem Statement:
 Like most other lending companies, lending loans to ‘risky’ applicants is the largest source of financial loss (called credit loss). Credit loss is the amount of money lost by the lender when the borrower refuses to pay or runs away with the money owed. In other words, borrowers who default cause the largest amount of loss to the lenders. In this case, the customers labelled as 'charged-off' are the 'defaulters'.
 
-*Understand the driving factors (or driver variables) behind loan default
-*Identify risky loan applicants using EDA
+- Understand the driving factors (or driver variables) behind loan default
+- Identify risky loan applicants using EDA
 
 
 ## Table of Contents
 
 ## [General Info](#general-information)
-Analyse Lending company data and identify charged off customer behaviour
+- Analyse Lending company data and identify charged off customer behaviour
 
 ## [Technologies Used](#technologies-used)
 - Python
@@ -20,7 +20,7 @@ Analyse Lending company data and identify charged off customer behaviour
 - Seaborn
 
 ## Conclusions
-Univariate Analysis
+- Univariate Analysis
 1. Loan Status
 		Total count and percentage of loan customer by their loan status (Fully Paid/Charged Off/Current). 
 		Fully Paid: 13982(84%) Most of the customers are in fully paid category
@@ -46,8 +46,7 @@ Univariate Analysis
 		72% peoples taken loan for 36 month tenure and remaining 28% taken loan for 60 month tenure.
 
 
-Bivariate
-
+- Bivariate
 1. Loan status and Employment length
 		After plotting box plot using Loan status and employment length we found no correlation between employment length and loan status.
 2. Loan status and Annual income

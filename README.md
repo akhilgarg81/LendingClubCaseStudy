@@ -12,7 +12,7 @@ Like most other lending companies, lending loans to ‘risky’ applicants is th
 Analyse Lending company data and identify charged off customer behaviour
 
 ## [Technologies Used](#technologies-used)
--Python
+- Python
 -Libraries:
 --Numpy	
 --Panads
@@ -21,30 +21,29 @@ Analyse Lending company data and identify charged off customer behaviour
 
 ## Conclusions
 Univariate Analysis
-Loan Status
+1.Loan Status
 		Total count and percentage of loan customer by their loan status (Fully Paid/Charged Off/Current). 
 		Fully Paid: 13982(84%) Most of the customers are in fully paid category
 		Charged : 2152(13%)
 		Current : 540 (3%)
-Grade
+2.Grade
 		Total count and percentage of loan customer by Grade (A/B/C/D/E/F/G)
 		Highest customer in Grade B 5144 (31%)
 		Lowest customer in Grade G 118 (1%)
 
-Employment Length
+3.Employment Length
 
 		Employees who have employment length 10 and more are largest customer 3959 (24%)
 		second highest are customers who have 1 years experience
-Home Ownership
+4.Home Ownership
 		Rent and Mortgage type customer are the largest customer base. Customers who have own house are only 7%.
-Verification 
-Status
-		42% non verified customers are the highest loan takers. High percentage of non verified customer shows company is not having strict policy or measures to verify customer 		details like address, income sources, credit history. This increases risk of loan defaulters
-Purpose
-		Highest no. of customers are taking loan for debt consolidation. This has direct relation with home ownership, as many customers who have house mortgage may be using this 		loan for debt consolidation
-Address
+5. Verification Status
+		42% non verified customers are the highest loan takers. High percentage of non verified customer shows company is not having strict policy or measures to verify customer 		details 		like address, income sources, credit history. This increases risk of loan defaulters
+6. Purpose
+		Highest no. of customers are taking loan for debt consolidation. This has direct relation with home ownership, as many customers who have house mortgage may be using this 		loan for 	debt consolidation
+7. Address
 		Plotted most loan taking states in descending order which will eventually help to target customers to increase business.
-Loan Term
+8. Loan Term
 		72% peoples taken loan for 36 month tenure and remaining 28% taken loan for 60 month tenure.
 
 

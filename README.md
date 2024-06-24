@@ -12,12 +12,12 @@ Like most other lending companies, lending loans to ‘risky’ applicants is th
 Analyse Lending company data and identify charged off customer behaviour
 
 ## [Technologies Used](#technologies-used)
-Python
-Libraries:
-Numpy	
-Panads
-Matplotlib
-Seaborn
+-Python
+-Libraries:
+--Numpy	
+--Panads
+--Matplotlib
+--Seaborn
 
 ## Conclusions
 Univariate Analysis

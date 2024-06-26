@@ -23,28 +23,27 @@ Like most other lending companies, lending loans to ‘risky’ applicants is th
 - Univariate Analysis
 1. Loan Status
 		Total count and percentage of loan customer by their loan status (Fully Paid/Charged Off/Current). 
-		Fully Paid: 13982(84%) Most of the customers are in fully paid category
-		Charged : 2152(13%)
-		Current : 540 (3%)
+		Fully Paid: 30423(84%) Most of the customers are in fully paid category
+		Charged : 4942(14%)
+		Current : 1066 (3%)
 2. Grade
 		Total count and percentage of loan customer by Grade (A/B/C/D/E/F/G)
-		Highest customer in Grade B 5144 (31%)
-		Lowest customer in Grade G 118 (1%)
-
+		Highest customer in Grade B 11035 (30%)
+		Grade B,C & D  has most of the charged off customers
 3. Employment Length
-		Employees who have employment length 10 and more are largest customer 3959 (24%)
+		Employees who have employment length 10 and more are largest customer 8407 (23%)
 		second highest are customers who have 1 years experience
 4. Home Ownership
 		Rent and Mortgage type customer are the largest customer base. Customers who have own house are only 7%.
 5. Verification Status
-		42% non verified customers are the highest loan takers. High percentage of non verified customer shows company is not having strict policy or measures to verify customer 		details 		like address, income sources, credit history. This increases risk of loan defaulters
+		42% non verified customers are the highest loan takers. High percentage of non verified customer shows company is not having strict policy or 			measures to verify customer details like address, income sources, credit history. This increases risk of loan defaulters
 6. Purpose
-		Highest no. of customers are taking loan for debt consolidation. This has direct relation with home ownership, as many customers who have house mortgage may be using this 		loan for 	debt consolidation
+		Highest no. of customers are taking loan for debt consolidation. This has direct relation with home ownership, as many customers who have house 		mortgage may be using this 		loan for 	debt consolidation
 7. Address
 		Plotted most loan taking states in descending order which will eventually help to target customers to increase business.
 8. Loan Term
-		72% peoples taken loan for 36 month tenure and remaining 28% taken loan for 60 month tenure.
-
+		72% peoples taken loan for 36 month tenure and remaining 28% taken loan for 60 month tenure
+   		People who are taking loan for 60 months of tenure are likely to default
 
 - Bivariate
 1. Loan status and Employment length
